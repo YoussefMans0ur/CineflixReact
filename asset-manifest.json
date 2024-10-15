@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CineflixReact/static/css/main.607367d1.css",
+    "main.js": "/CineflixReact/static/js/main.6f0bd718.js",
+    "static/js/453.7bf11acd.chunk.js": "/CineflixReact/static/js/453.7bf11acd.chunk.js",
+    "static/media/fa-solid-900.ttf": "/CineflixReact/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/CineflixReact/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/CineflixReact/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/CineflixReact/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/CineflixReact/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/CineflixReact/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/CineflixReact/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/CineflixReact/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/logo.svg": "/CineflixReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CineflixReact/index.html",
+    "main.607367d1.css.map": "/CineflixReact/static/css/main.607367d1.css.map",
+    "main.6f0bd718.js.map": "/CineflixReact/static/js/main.6f0bd718.js.map",
+    "453.7bf11acd.chunk.js.map": "/CineflixReact/static/js/453.7bf11acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607367d1.css",
+    "static/js/main.6f0bd718.js"
+  ]
+}
